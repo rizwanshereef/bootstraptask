@@ -1,0 +1,45 @@
+body {
+    font-family: 'Abel';font-size: 22px;
+}
+.navbar-brand img
+{
+    height: 10vh;
+    width: 5vw;
+    border-radius: 60%;
+}
+
+#jumbo
+{
+   margin: 0%; 
+   margin-bottom: 0%;
+}
+.gallery-sec
+{
+    background-color:#9F9F9F;
+    /* margin-top: 0%; */
+    margin: 0%;
+    border-bottom: 2px yellow;
+}
+.row
+{
+ border-radius: 20%;   
+}
+
+.footer-sec
+{
+    color: black;
+    background-color:rgb(102, 91, 91);
+    margin: 0;
+    border-bottom: 2px yellow;
+}
+
+.footer-sec ul
+{
+    list-style: none;
+}
+.row_footer
+{
+    color: whitesmoke;
+    background-color:black;
+    text-align: center;
+}
